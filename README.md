@@ -1,5 +1,1 @@
-# productly
-
-# Hello
-
-## This is my figma practice site
+# https://www.otabekkadirov.github.io/productly
