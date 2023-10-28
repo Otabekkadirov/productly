@@ -1,1 +1,1 @@
-# https://www.otabekkadirov.github.io/productly
+# otabekkadirov.github.io/productly
